@@ -156,7 +156,16 @@
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog">Prompt Box waitlist</a>.
 </p>
 
+<!-- ✅ Stable GitHub Stats (mirror) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=machadobatistacosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machadobatistacosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=machadobatistacosta&show_icons=true&theme=github_dark&hide_border=true"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=machadobatistacosta&layout=compact&theme=github_dark&hide_border=true"
+    height="150"
+    alt="Top languages"
+  />
 </div>
