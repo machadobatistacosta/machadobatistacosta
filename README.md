@@ -1,4 +1,3 @@
-<img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/d9290ed2-832d-48da-a9de-7a45832ce645" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
