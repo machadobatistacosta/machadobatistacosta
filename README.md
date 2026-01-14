@@ -3,7 +3,7 @@
 <p align="left">
   My name is <b>Caike Machado Batista Costa</b> — Founder at <b>Prompt Box</b>.<br>
   I build <b>Sovereign AI</b> and <b>Offline-First RAG</b> for legal & corporate workflows (privacy-by-design).<br>
-  🎓 Systems Information (8th semester) @ FURB • 🇧🇷 Brazil
+  🎓 Systems Information (final semester) @ FURB • 🇧🇷 Brazil
 </p>
 
 <div align="left">
@@ -29,11 +29,21 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Creating bugs since <b>2018</b><br>
-  📚 I'm currently learning: <b>LLM training & inference</b>, <b>retrieval evaluation</b>, <b>quantization</b>, and <b>performance engineering</b><br>
-  🎯 Goals: ship a <b>reliable offline legal/corporate RAG</b>, build my own <b>SLM/LLM in Rust</b>, and scale <b>Prompt Box</b><br>
+  ✨ Creating software (and bugs) since <b>2018</b><br>
+  🧠 Building: <b>Legal RAG in Python</b> + my own <b>SLM/LLM in Rust</b><br>
+  📚 Currently learning: <b>LLM training & inference</b>, <b>retrieval evaluation</b>, <b>quantization</b>, and <b>performance engineering</b><br>
+  🎯 Focus right now: deliver my <b>first Portuguese (pt-BR) model</b> — then plug it into the RAG and optimize end-to-end<br>
   🎲 Fun fact: I like turning “hard constraints” (offline, privacy, cost) into a product advantage
 </p>
+
+<h2 align="left">📌 Status</h2>
+
+<ul>
+  <li><b>Stage:</b> Final semester + building foundation for Prompt Box</li>
+  <li><b>Now:</b> First <b>pt-BR SLM/LLM in Rust</b> (core capability I want to own)</li>
+  <li><b>Next:</b> Return to the <b>Legal RAG</b> and optimize it using my own model (privacy + cost + latency)</li>
+  <li><b>Later:</b> Expand to other products on top of the same offline-first AI stack</li>
+</ul>
 
 <h2 align="left">🚀 What I’m building</h2>
 
@@ -43,12 +53,12 @@
   <li><b>SLM/LLM in Rust</b> — training/inference experiments + low-level optimizations for real-world deployment.</li>
 </ul>
 
-<h2 align="left">🧭 Focus</h2>
+<h2 align="left">🧭 Principles</h2>
 
 <ul>
-  <li><b>Privacy-by-design</b> (LGPD-friendly): keep sensitive data inside the customer’s infrastructure.</li>
-  <li><b>Offline/On-Prem</b>: reduce token costs and data-exfiltration risks.</li>
-  <li><b>Engineering quality</b>: performance, traceability, reproducibility, and strong fundamentals.</li>
+  <li><b>Privacy-by-design</b>: keep sensitive data inside the customer’s infrastructure (LGPD-friendly).</li>
+  <li><b>Offline / On-Prem</b>: reduce costs and data-exfiltration risks.</li>
+  <li><b>Engineering quality</b>: traceability, reproducibility, and strong fundamentals.</li>
 </ul>
 
 ---
@@ -134,13 +144,19 @@
 <h2 align="left">🤝 Collaboration</h2>
 
 <ul>
-  <li><b>Pilots / early adopters</b>: legal teams, corporate compliance, knowledge-heavy businesses.</li>
-  <li><b>Partnerships</b>: privacy-first AI, on-prem deployments, governance, document workflows.</li>
-  <li><b>Contributors</b>: evaluation, retrieval quality, dataset tooling, Rust inference optimization.</li>
+  <li><b>Pilots / early adopters</b>: legal teams, compliance, knowledge-heavy businesses.</li>
+  <li><b>Partnerships</b>: privacy-first AI, on-prem deployments, governance, and document workflows.</li>
+  <li><b>Contributors</b>: retrieval eval, dataset tooling, Rust inference optimization.</li>
 </ul>
 
 <p align="left">
-  If you want to collaborate or join the beta, reach me on <a href="https://www.linkedin.com/in/caike-machado-batista-costa/">LinkedIn</a> or join the <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog">Prompt Box waitlist</a>.
+  If you want to collaborate or join the beta, reach me on
+  <a href="https://www.linkedin.com/in/caike-machado-batista-costa/">LinkedIn</a>
+  or join the
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog">Prompt Box waitlist</a>.
 </p>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=machadobatistacosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machadobatistacosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
