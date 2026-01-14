@@ -1,3 +1,4 @@
+<img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/d9290ed2-832d-48da-a9de-7a45832ce645" />
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
@@ -150,7 +151,7 @@
 </ul>
 
 <p align="left">
-  If you want to collaborate or join the beta, reach me on
+  For pilots, partnerships, or early access, reach me on
   <a href="https://www.linkedin.com/in/caike-machado-batista-costa/">LinkedIn</a>
   or join the
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog">Prompt Box waitlist</a>.
