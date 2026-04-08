@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/caike-machado-batista-costa/" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="https://x.com/ca_ike13" target="_blank">
+  <a href="https://x.com/ca_ike14" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20X-111111?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
   <a href="https://instagram.com/ca_ike14" target="_blank">
