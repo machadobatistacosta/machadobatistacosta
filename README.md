@@ -16,14 +16,11 @@
   <a href="https://www.linkedin.com/in/caike-machado-batista-costa/" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
-  <a href="https://x.com/apeirum" target="_blank">
-    <img src="https://img.shields.io/badge/Apeirum%20X-111111?style=for-the-badge&logo=x&logoColor=white" height="28" />
+  <a href="https://x.com/ca_ike13" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20X-111111?style=for-the-badge&logo=x&logoColor=white" height="28" />
   </a>
-  <a href="https://www.instagram.com/apeirum" target="_blank">
-    <img src="https://img.shields.io/badge/Apeirum%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
-  </a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSekC3xzdTTGQ1q07oy6-wnYEvyOqx5MWtaCT97UmxwnS-fZeQ/viewform?usp=dialog" target="_blank">
-    <img src="https://img.shields.io/badge/Beta%20Waitlist-9C27B0?style=for-the-badge&logo=googleforms&logoColor=white" height="28" />
+  <a href="https://instagram.com/ca_ike14" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
 </div>
 
@@ -65,12 +62,12 @@
 
 ## Collaboration
 
-- early pilots
 - technical partnerships
-- Rust / retrieval / evaluation work
+- AI infrastructure work
+- Rust / retrieval / evaluation engineering
 
 <p align="left">
-  For pilots, technical collaboration, or early access:
+  More about the project:
   <a href="https://apeirum.com.br">apeirum.com.br</a>
 </p>
 
