@@ -4,7 +4,7 @@
 
 <p>
   <strong>Software Engineer · AI Builder · Full-Stack Problem Solver</strong><br>
-  Building software since 2018 · Information Systems graduate from FURB · Brazil 🇧🇷
+  Building software since 2018 · Information Systems at FURB (degree in progress) · Brazil 🇧🇷
 </p>
 
 <p>
@@ -13,6 +13,9 @@
   </a>
   <a href="https://apeirum.com.br">
     <img src="https://img.shields.io/badge/Founder%20at%20Apeirum-111111?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Apeirum" />
+  </a>
+  <a href="https://github.com/aipeirum">
+    <img src="https://img.shields.io/badge/Apeirum%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Apeirum on GitHub" />
   </a>
   <a href="https://x.com/ca_ike14">
     <img src="https://img.shields.io/badge/@ca__ike14-111111?style=for-the-badge&logo=x&logoColor=white" height="28" alt="X profile" />
@@ -27,7 +30,7 @@ I am a software engineer who moves comfortably across languages, frameworks, dat
 
 I do not define myself by a single stack. I break down the problem, understand the codebase, choose the right tools, and deliver. I have worked with **Rust, Python, TypeScript, JavaScript, Java, C#, C++, PHP, SQL**, and other technologies across academic projects, professional work, and products.
 
-I hold a degree in **Information Systems from FURB**. My background combines enterprise software, full-stack development, distributed systems, technical support, product engineering, and artificial intelligence.
+My **Information Systems degree at FURB is in progress**. My background combines enterprise software, full-stack development, distributed systems, technical support, product engineering, and artificial intelligence.
 
 ## From first code to end-to-end engineering
 
@@ -35,15 +38,13 @@ I hold a degree in **Information Systems from FURB**. My background combines ent
 | --- | --- |
 | **GOVBR · 2018** | Started in technology as an intern, working with ERP development and maintenance using PHP 7 and Delphi |
 | **Web projects · 2019–2020** | Built frontend projects in the Node.js ecosystem, expanding from enterprise maintenance into modern web development |
-| **FURB · from 2021** | Entered Information Systems and deepened my foundation in Java, algorithms, software engineering, and relational databases through Database I and II |
-| **ProWay / Entra21 · 2022** | Professional full-stack training in C# and .NET 6, including ASP.NET Core MVC, Entity Framework, SQL Server, layered architecture, and APIs |
+| **FURB · from 2021** | Information Systems studies covering programming, software engineering and testing, databases, infrastructure, security, AI, quantitative methods, and business management. Degree in progress |
+| **ProWay / Entra21 · 2022** | Professional full-stack training in C# and .NET 6, including ASP.NET Core MVC, Entity Framework, SQL Server, layered architecture, and APIs. The program also included English practice in reading, writing, speaking, and listening |
 | **Senior Sistemas · 2022–2023** | Progressed from the GoDev internship program to Software Developer, working with Java, Delphi, Vue, enterprise HR/ERP systems, integrations, Git, CI, API documentation, stability, and performance across SQL Server, Oracle, and PostgreSQL environments |
 | **Private client work** | Delivered freelance software for a health-tech client, translating business requirements into a working digital product while preserving repository confidentiality |
-| **Apeirum · current** | Founder and lead developer of a production AI platform, owning product and architecture across secure document-scoped RAG, source provenance, APIs and structured extraction, authentication, billing, queues, observability, testing, infrastructure, and market validation |
+| **Apeirum · founded in 2025** | Founded and developed a document search and analysis SaaS product with TypeScript, Next.js, PostgreSQL, Supabase, pgvector, APIs, authentication, and RAG. Worked with one client and an additional pilot, and participated in inicIA 2026. Product development is currently paused |
 
 **Selected training:** Java OOP, ASP.NET Core MVC, Java microservices with Spring Boot and Spring Cloud, MySQL, and full-stack web development.
-
-This progression shaped how I work today: I am not locked into one language or layer. I can enter an unfamiliar codebase, learn the stack, connect the moving parts, and take a problem from discovery to production—with AI accelerating the work and engineering judgment guiding it.
 
 ## How I work
 
@@ -55,12 +56,11 @@ This progression shaped how I work today: I am not locked into one language or l
 | AI-assisted engineering | I use Codex and other AI tools to explore codebases, prototype, refactor, test, and document faster |
 | Product mindset | I focus on solving the real user and business problem—not only on writing code |
 
-> AI accelerates my workflow; engineering judgment, validation, and responsibility remain mine.
-
 ## Selected work
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| **[Apeirum](https://github.com/aipeirum)** · public product overview | Document search and analysis with ingestion pipelines, hybrid retrieval, source references, APIs, authentication, and document isolation | TypeScript, Next.js, PostgreSQL, Supabase, pgvector |
 | **PTBR-LLM** · private R&D | An RWKV v6/v7 language-model pipeline for Brazilian Portuguese, covering corpus cleaning and auditing, tokenizer training, streaming datasets, checkpoints, benchmarks, and local inference | Rust, Burn, PyTorch, RWKV, CUDA |
 | **[MicroChefs](https://github.com/machadobatistacosta/Projeto-Sistemas-distribuidos)** | End-to-end ownership of an event-driven restaurant platform: Angular frontend, Java and .NET services, asynchronous messaging, service discovery, containers, and real-time order tracking | Angular, Java, Spring Boot, .NET, RabbitMQ, Eureka, PostgreSQL, Docker |
 | **[ClimaWatch](https://github.com/machadobatistacosta/climawatch)** | Event-driven backend infrastructure with message queues, dead-letter handling, health checks, persistence, containers, and optional Telegram notifications | .NET 10, RabbitMQ, PostgreSQL, Docker |
@@ -117,9 +117,9 @@ This progression shaped how I work today: I am not locked into one language or l
 
 ## Current focus
 
-- Building and operating **[Apeirum](https://apeirum.com.br)** as a secure AI product: hybrid and agentic RAG experiments, document isolation and provenance, structured-extraction APIs, billing, background processing, observability, and automated testing.
-- Advancing **PTBR-LLM**, from data preparation and training to evaluation and efficient local inference.
-- Using **Codex and AI-assisted development** to move faster across codebases and stacks without giving up review, tests, or engineering rigor.
+- Seeking full-time software engineering opportunities in backend, full-stack development, and applied AI.
+- Apeirum remains part of my engineering portfolio; product development is currently paused.
+- Using AI-assisted development tools to explore codebases, refactor, test, and document my work.
 
 ## GitHub activity
 
@@ -136,6 +136,6 @@ This progression shaped how I work today: I am not locked into one language or l
 
 <p align="center">
   <strong>The stack is a decision. Solving the problem is the job.</strong><br>
-  Open to software engineering, AI, product, and technical partnership opportunities.<br>
+  Open to full-time software engineering opportunities.<br>
   <a href="https://www.linkedin.com/in/caike-machado-batista-costa/">Let's connect on LinkedIn</a>.
 </p>
